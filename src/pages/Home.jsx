@@ -1,7 +1,7 @@
 const Home = () => {
   return (
     <div>
-      <h1>Home page has been update just now.</h1>
+      <h1>Home page has been updated just now.</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto iure, quo
         ipsum quae autem sapiente consequuntur, enim repellendus voluptate,
